@@ -62,6 +62,9 @@ a {
 a:hover {
   color: #2268b2;
 }
+strong{
+    font-weight: bold;
+}
 
 header {
   padding-top: 40px;
