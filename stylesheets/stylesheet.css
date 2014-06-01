@@ -137,7 +137,7 @@ header a.button {
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
 header a.button:hover {
-  opacity: 0.5;
+  opacity: 0.6;
 }
 aside a.button {
   width: 138px;
