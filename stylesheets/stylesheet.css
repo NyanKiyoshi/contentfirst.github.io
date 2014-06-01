@@ -138,7 +138,7 @@ header a.button {
   border-radius: 10px;
 }
 header a.button:hover {
-  background-color: rgba(255, 255, 255, 0.1)
+  background-color: rgba(255, 255, 255, 0.1);
 }
 aside a.button {
   width: 138px;
